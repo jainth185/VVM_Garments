@@ -1,1 +1,1 @@
-"# VVM_Garments" 
+VVM Garments
