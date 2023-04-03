@@ -758,4 +758,7 @@ footer .copyright {
   footer .copyright {
       text-align: start;
   }
+  footer .copyright {
+    text-align: start;
+}
 }
